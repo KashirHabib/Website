@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kashir Habib - Amazon Virtual Assistant</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f7f7f7;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: #ffffff;
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+      color: rgba(247, 163, 28, 1);
+      text-align: center;
+      margin-top: 0;
+    }
+
+    p {
+      text-align: center;
+      color: #555;
+      font-size: 18px;
+      line-height: 1.6;
+    }
+
+    .skills {
+      margin-top: 30px;
+      text-align: center;
+    }
+
+    .skills h2 {
+      color: rgba(247, 163, 28, 1);
+    }
+
+    .skills ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    .skills li {
+      margin-bottom: 10px;
+    }
+
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: rgba(247, 163, 28, 1);
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+      transition: background-color 0.3s ease;
+    }
+
+    .button:hover {
+      background-color: rgba(247, 163, 28, 0.8);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Kashir Habib</h1>
+    <p>Hello there! I'm Kashir Habib, your Amazon Virtual Assistant.</p>
+    <div class="skills">
+      <h2>Professional Skills</h2>
+      <ul>
+        <li>Amazon FBA Private Label</li>
+        <li>Product Research</li>
+        <li>Listing Optimization</li>
+        <li>Market Analysis</li>
+        <li>Inventory Management</li>
+        <li>Customer Service</li>
+      </ul>
+    </div>
+    <p>I specialize in providing comprehensive solutions for your Amazon business needs.</p>
+    <p>If you're ready to take your Amazon business to the next level, let's connect!</p>
+    <div style="text-align: center;">
+      <a href="mailto:habibkashir@gmail.com" class="button">Contact Me</a>
+    </div>
+  </div>
+</body>
+</html>
